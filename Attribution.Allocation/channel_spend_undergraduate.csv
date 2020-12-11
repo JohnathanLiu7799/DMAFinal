@@ -1,4 +1,4 @@
-﻿,0
+﻿tier,spend
 tier1,"{'bing': 300, 'display': 12, 'facebook': 9000, 'search': 13000, 'youtube': 90}"
 tier2,"{'bing': 400, 'display': 13, 'facebook': 10500, 'search': 18500, 'youtube': 100}"
 tier3,"{'bing': 900, 'display': 19, 'facebook': 11000, 'search': 19000, 'youtube': 130}"

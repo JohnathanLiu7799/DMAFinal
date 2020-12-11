@@ -124,8 +124,8 @@ select_model_types = ['last_touch_point', 'first_touch_point', 'last_nondirect_t
 write_to_file = True
 
 # ----- Import data -----
-df = pd.read_pickle('C:/Users/John/Documents/GitHub/Fall2020_attribution_allocation/attribution_allocation_student_data')
-channel_spend = pd.read_pickle('C:/Users/John/Documents/GitHub/Fall2020_attribution_allocation/channel_spend_student_data')
+df = pd.read_csv("C:/Users/John/Downloads/DMA Final/Attribution.Allocation/sub+tier.csv")
+channel_spend = pd.read_csv("C:/Users/John/Downloads/DMA Final/Attribution.Allocation/channel_spend_undergraduate.csv")
 
 # ##### This data set is large. As you work through the code,
 # you will find that executing some functions can take a long time (O(hours))
@@ -141,6 +141,7 @@ touch_col_names = [x for x in df.columns if x.find(touch_col_prepend) > -1]
 max_touches = max([int(x.split(touch_col_prepend)[1]) for x in touch_col_names])
 
 # total spending for all three tier experiments
+
 channel_spend['total'] = dict()
 for t_name, t in channel_spend.items():
     if t_name != 'total':
