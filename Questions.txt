@@ -1,0 +1,35 @@
+Questions:
+
+Why do I have Tables & Measures instead of Dimensions & Meausres?
+
+Trouble With Historgrams
+
+Calculated Fields
+
+How to clean data?
+    Apply 2020-age where applicable
+
+What does it mean when
+    Someone finished their trial
+    doesnt have a cancel date
+    Not a current sub
+
+
+Presentation:
+If it was due to content, we would expect to see the reverse, less consumption from males and and more consumption from females.
+
+Despite this, its the other way arround, with with men consuming around 8-9 horus on average more than women per week.
+
+One glaring problem to me right now however, is that this isnt monetizable. A subscription to a person who watches all 168 hours a week is the same as those that watch 
+1 hour a week. This increased consumption isnt profitable right now, nor is the size of the current male subscriber population.
+
+One potential solution is changing the subsciption plan to be a subscription and package model or a freemium model. Allowing subscribers to access more general content at a base/discounted/fre rate
+then charging for viewership of exclusive content.
+
+While this might normally have a backlash we're currently in a low competition environment, where we have complete control over the access to exclusive content.
+There are little to no substitutes for what we offer as demonstrated by the near 40% of our subscribers coming for exclusive content.
+
+We wouldnt alienate the other intended uses either, as they wouldnt be affected in a significant manner.
+
+Our current
+
